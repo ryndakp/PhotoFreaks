@@ -33,6 +33,9 @@
 - sqlplus system/haslo@//localhost:1521/XEPDB1
 
 •	Następnie uruchamiamy Xampp i tam startujemy Apache oraz MySql
+
 •	Następnie kopiujemy wszystkie pliki zawarte w folderze WitrynaZdjec i dodajemy go do folderu Xamppa o nazwie ,,htdocs"
+
 •	Pobieramy i uruchamiamy SQL Developer oraz importujemy załączony plik SQL
+
 •	Otwieramy okno przeglądarki i wpisujemy localhost/WitrynaZdjec/index.php
