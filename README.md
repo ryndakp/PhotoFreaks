@@ -40,3 +40,4 @@ Aplikacja internetowa ,, PhotoFreaks” jest witryną gdzie użytkownik może do
 •	Pobieramy i uruchamiamy SQL Developer oraz importujemy załączony plik SQL
 
 •	Otwieramy okno przeglądarki i wpisujemy localhost/WitrynaZdjec/index.php
+Grafiki wykorzystane do utworzenia serwisu pochodzą ze strony www.pixabay.com i podlegają licencji Pixabay License. Grafiki są darmowe i nie wymagają przypisania autora.
