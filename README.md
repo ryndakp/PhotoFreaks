@@ -4,8 +4,7 @@
 ## Autor: Patrycja Ryndak
 ## O projekcie
 Aplikacja internetowa ,, PhotoFreaks” jest witryną gdzie użytkownik może dodać zrobione przez siebie zdjęcie. Do dodania zdjęcia potrzebne jest utworzenie konta na stronie. Po zalogowaniu się na swoje konto użytkownik jest w stanie dodawać nowe zdjęcia, ma wgląd w dodane zdjęcia oraz ma opcję usunięcia dodanego zdjęcia. Zdjęcia udane przez użytkownika wyświetlane są na stronie głównej, gdzie może zobaczyć je każdy odwiedzający stronę.
-## Specyfikacja projektu
-
+# Specyfikacja projektu
 ## Wykorzystane technologie:
 - HTML5
 - CSS 3
